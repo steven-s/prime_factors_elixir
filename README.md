@@ -17,9 +17,13 @@ More information can be found on the [Elixir website](http://elixir-lang.org).
 This example was built with help from [Mix](http://elixir-lang.org/getting_started/mix.html).  To execute the tests, simply enter `mix test` on the command line in the top level directory for the project.
 
 `$ pwd`
+
 `/path/to/checkout/locaction/prime_factors_elixir`
+
 `$ mix test`
+
 `...`
+
 `7 tests, 0 failures.`
 
 # Directory structure
