@@ -1,6 +1,6 @@
 # Prime Factors in Elixir
 
-This is an example of a prime factors generator developed in a TDD style, like one would do for a a [Code Kata](http://codekata.pragprog.com).
+This is an example of a prime factors generator developed in a TDD style, like one would do for a [Code Kata](http://codekata.pragprog.com).
 
 The goal is to be able to factor out a list of primes for a given input number.
 
