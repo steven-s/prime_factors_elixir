@@ -18,7 +18,7 @@ This example was built with help from [Mix](http://elixir-lang.org/getting_start
 
 `$ pwd`
 
-`/path/to/checkout/locaction/prime_factors_elixir`
+`/path/to/checkout/location/prime_factors_elixir`
 
 `$ mix test`
 
